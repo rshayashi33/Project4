@@ -1,0 +1,86 @@
+/* DEVELOPER: Remi Hayashi, IS117-003, Fall 2021 */
+
+*{
+  padding:0;
+  margin:0;
+
+
+}
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+
+body{
+  width:100%
+  height:auto;
+  background-color: #baa690;
+  text-align: center;
+
+
+}
+
+.text-image h1{
+  font-family: 'Kaushan Script', cursive;
+  style:bold;
+}
+
+
+.navbar-toggler{
+  background-color: #a89276;
+}
+
+.navbar {
+  background-color: #a89276;
+  font-family: 'DM Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+
+.navbar-brand{
+  color:brown;
+
+}
+
+p{
+  color:white;
+}
+
+.navbar-brand img{
+  height:10%;
+  width:10%;
+}
+/*header image part*/
+.title-image img{
+  width:100%;
+
+}
+.text-image{
+  width:90%;
+  position:absolute;
+  margin-top: -30%;
+
+}
+/*Your study abroad roommate title*/
+.text-image h1{
+  text-align:center;
+  color:white;
+  font-size:9vw
+  /*font-famly:*/
+}
+
+.jumbotron {
+  background-color: #dfd1bf;
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.jumbotron h1{
+  font-family: 'Kaushan Script', cursive;
+  style:bold;
+  font-size:35px;
+
+}
