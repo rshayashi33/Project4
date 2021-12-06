@@ -3,6 +3,7 @@
 *{
   padding:0;
   margin:0;
+font-family: 'Oswald', sans-serif;
 
 
 }
@@ -83,4 +84,8 @@ p{
   style:bold;
   font-size:35px;
 
+}
+
+.colorchange p{
+  color:#422a14;
 }
